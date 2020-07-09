@@ -1,3 +1,39 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@kaluskam
+Learn Git and GitHub without any code!
+
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+kaluskam /
+Analiza-GPW
+
+1
+0
+
+    0
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+Analiza-GPW/.gitignore
+@kaluskam
+kaluskam Initial commit
+Latest commit e871d31 3 minutes ago
+History
+1 contributor
+129 lines (105 sloc) 1.76 KB
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +163,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
